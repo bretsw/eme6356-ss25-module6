@@ -2,4 +2,4 @@
 
 Slide deck for **EME6356, Module 6: Ethics in Analytics** (Spring 2025)
 
-![](img/6-ethics.jpg)
+![](img/6-ethics.png)
